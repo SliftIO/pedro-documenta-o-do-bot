@@ -25,4 +25,7 @@
 6. **Localização do Arquivo Exportado:**
    - O arquivo Excel com os números de telefone dos perfis minerados será salvo automaticamente na pasta de instalação do software.
 
+7. **Criando Novas Tabelas:**
+   - Caso deseje criar uma nova tabela, será necessário excluir a tabela criada anteriormente na interface do usuário antes de prosseguir com a nova mineração e criação de tabela.
+
 Siga esses passos para garantir que o software esteja atualizado e funcione corretamente conforme o esperado.
